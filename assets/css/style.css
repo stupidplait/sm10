@@ -163,7 +163,7 @@ p.valid {
     transform: translateX(-50%);
 }
 
-a[href$="js-basic"] {
+a[href$="sm10"] {
     display: flex;
     position: absolute;
     bottom: 1rem;
