@@ -3,6 +3,7 @@
 let word = 'github';
 
 let anchor = document.createElement('a');
+anchor.className = 'github';
 anchor.setAttribute('href', 'https://github.com/stupidplait/sm10');
 
 for (let i = 0; i < word.length; i++) {
