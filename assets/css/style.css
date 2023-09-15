@@ -161,6 +161,14 @@ p.valid {
     bottom: 100px;
     left: 50%;
     transform: translateX(-50%);
+    text-decoration: none;
+    color: var(--clr-primary);
+    letter-spacing: 0.15em;
+    transition: ease-in-out .2s;
+}
+
+.pautina:hover {
+    color: var(--clr-text);
 }
 
 a.github {
