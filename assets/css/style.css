@@ -163,7 +163,7 @@ p.valid {
     transform: translateX(-50%);
 }
 
-a[href$="sm10"] {
+a.github {
     display: flex;
     position: absolute;
     bottom: 1rem;
